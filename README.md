@@ -13,6 +13,9 @@
 
 ## SETUP Development Environment
 
+`Tech Stack` --> JavaScript
+
+
 1. Install NodeJs and npm package manager
 
 2. Install express 
