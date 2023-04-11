@@ -1,6 +1,15 @@
 # LEETCODE CLONE
 
-### Features
+## Website Design
+
+
+
+
+## User-Interface
+
+
+
+## Features
 - Login 
 - Signup
 - Admin Config : To be able to post the questions and edit if there is any mistake
@@ -11,9 +20,9 @@
 - Code Editor : connect to the backend and check for the code submission and show its acceptance
 
 
-## SETUP Development Environment
+## Setting Up Development Environment
 
-`Tech Stack` --> JavaScript
+`Tech Stack` --> JavaScript{MERN Stack}
 
 
 1. Install NodeJs and npm package manager
